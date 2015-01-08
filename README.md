@@ -1,7 +1,7 @@
 # recipes-reagent 
 
 A version of the [Reagent tutorial](https://github.com/jonase/reagent-tutorial), a port of the [Om](https://github.com/swannodette/om)
-[tutorial](https://github.com/swannodette/om/wiki/Tutorial) to
+[tutorial](https://github.com/swannodette/om/wiki/Basic-Tutorial) to
 [Reagent](https://github.com/holmsand/reagent). 
 
 
